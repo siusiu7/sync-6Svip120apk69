@@ -1,0 +1,22 @@
+name: sync-scripts
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 1 1 * *'
+
+jobs:
+  repo-sync:
+      runs-on: ubuntu-latest
+      if: github.event.repository.owner.id == github.event.sender.id
+      steps:
+        - uses: actions/checkout@v2
+          with:
+            persist-credentials: false
+        - name: repo-sync
+          uses: repo-sync/github-sync@v2
+          with:
+            source_repo: "https://github.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE.git"
+            source_branch: "master"
+            destination_branch: "master"
+            sync_tags: "true"
+            github_token: ${{ secrets.PAT }}
