@@ -1166,7 +1166,7 @@ function GetCookie() {
         }
     }
     //获取奖励
-    if ($request && $request.url.indexOf("bubble") >= 0 && $request.url.indexOf("info") >= 0 && $request.body.indexOf("requestSrc=h5") >= 0) {
+/*    if ($request && $request.url.indexOf("bubble") >= 0 && $request.url.indexOf("info") >= 0 && $request.body.indexOf("requestSrc=h5") >= 0) {
         const shuqijlbodyVal = $request.body;
         if (shuqijlbodyVal) {
             if (XH == 1) {
@@ -1200,7 +1200,7 @@ function GetCookie() {
                 $.done();
             };
         }
-    }
+    }*/
     //获取收取奖励
 /*    if ($request && $request.url.indexOf("manual") >= 0 && $request.url.indexOf("receive") >= 0 && $request.body.indexOf("appVer=4") >= 0) {
         const shuqisqjlbodyVal = $request.body;
