@@ -2171,7 +2171,7 @@ function videolist(timeout = 0) {
     })
 }
 //奖励页面
-function bubble(timeout = 0) {
+/*function bubble(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
             let url = {
@@ -2201,7 +2201,7 @@ function bubble(timeout = 0) {
             })
         }, timeout)
     })
-}
+}*/
 //收取奖励
 function manual(timeout = 0) {
     return new Promise((resolve) => {
