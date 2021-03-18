@@ -66,10 +66,10 @@
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.png"],
             "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.js"
         },
-        {
+                {
             "id": "iboxpay",
             "name": "笑谱",
-            "keys": ["refreshtoken", "refreshtoken2"],
+            "keys": ["refreshtoken", "iboxpayvideoheader", "iboxpayvideobody"],
             "author": "@ziye",
             "settings": [{
                     "id": "iboxpaySuffix",
@@ -90,12 +90,12 @@
                     "name": "任务控制",
                     "val": "1",
                     "type": "number",
-                    "desc": "视频已无效，默认开启直播 "
+                    "desc": "默认为1开启直播，视频请获取ck，设置2关闭视频，新人请设置888"
                 },
                 {
                     "id": "iboxpayCASH",
                     "name": "提现标准",
-                    "val": "0",
+                    "val": "15",
                     "type": "number",
                     "desc": "0不提现，可设置 0 1 15 30 100 888 设置888，由大至小循环提现 "
                 },
