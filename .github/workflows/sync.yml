@@ -2,7 +2,7 @@ name: sync-scripts
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 1 * * *'
+    - cron: '30 1,13 * * *'
 
 jobs:
   repo-sync:
@@ -15,7 +15,7 @@ jobs:
         - name: repo-sync
           uses: repo-sync/github-sync@v2
           with:
-            source_repo: "https://github.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE.git"
+            source_repo: "https://github.com/ziye888/JavaScript.git"
             source_branch: "main"
             destination_branch: "master"
             sync_tags: "true"
