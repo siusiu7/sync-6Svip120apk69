@@ -40,7 +40,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/qczjspeed.js",
             "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/qczj.png", "https://raw.githubusercontent.com/Orz-3/task/master/qczj.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/qczjspeed.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/qczjspeed.js"
         },
         {
             "id": "xiaole",
@@ -64,7 +64,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.js",
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/xiaole.js"
         },
                 {
             "id": "iboxpay",
@@ -116,7 +116,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js",
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/iboxpay.js"
         },
         {
             "id": "flw",
@@ -154,7 +154,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.js",
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/flw.js"
         },
         {
             "id": "QQread",
@@ -178,7 +178,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/QQread.js",
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/QQread.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/QQread.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/QQread.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/QQread.js"
         },
         {
             "id": "bububao",
@@ -204,12 +204,12 @@
                     "name": "提现标准",
                     "val": "888",
                     "type": "number",
-                    "desc": "0不提现，可设置 0 0.3 50 100 200 888  设置888由上至下循环提现 "
+                    "desc": "0不提现，可设置 0 0.3 50 100 200 888  设置888则由上至下循环提现，设置CASH为3000，则在23.59分执行3秒的循环-以此类推，且在0点后执行1次50元提现，请提前手动运行或者设置好定时"
                 }
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/bububao.js",
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/bububao.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/bububao.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/bububao.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/bububao.js"
         },
         {
             "id": "qmyd",
@@ -240,7 +240,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/qmyd.js",
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/qmyd.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/qmyd.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/yuedongzu.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/qmyd.js"
         }, {
             "id": "shuqi",
             "name": "书旗小说APP",
@@ -270,7 +270,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js",
             "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/yuedongzu.js"
+            "script": "https://raw.githubusercontent.com/siusiu7/sync-6Svip120apk69/master/Task/shuqi.js"
         }
     ]
 }
